@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BaiTap01/BaiTap01.csproj" />
+  <Project Path="BaiTap02/BaiTap02.csproj" />
+  <Project Path="BaiTap03/BaiTap03.csproj" />
+  <Project Path="BaiTap04/BaiTap04.csproj" />
+</Solution>
